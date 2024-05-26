@@ -1,0 +1,13 @@
+
+/.idea
+cmake-build-debug/.cmake/api/v1/query/codemodel-v2
+*.json
+cmake-build-debug/.cmake/api/v1/query/cache-v2
+cmake-build-debug/.cmake/api/v1/query/toolchains-v1
+cmake-build-debug/.ninja_deps
+cmake-build-debug/.ninja_log
+*.cmake
+*.bin
+*.c
+cmake-build-debug
+*.txt
